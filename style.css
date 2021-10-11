@@ -1,0 +1,106 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: darkcyan;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+.style{
+    max-width: 1000px;
+    background-color: darksalmon;
+    margin: 0 auto;
+    padding: 10px;
+    overflow: hidden;
+}
+.dp{
+    width: 100px;
+    height: 120px;
+    border: 3px solid white;
+    border-radius: 50%;
+    float: left;
+    margin-top: 5px;
+    margin-left: 5px;
+}
+.dp1{
+    float: left;
+    padding: 30px;
+
+}
+.dp2{
+    float: right;
+    padding: 40px;
+
+}
+h1,h2,h3,h4,h5,h6{
+    color: rgb(239, 236, 241);
+}
+.dp2 a{
+    text-decoration:none;
+    color: darkslateblue;
+    font-weight: bold;
+
+}
+.dp2 a:hover{
+    text-decoration: underline;
+    background-color: rgb(60, 192, 60);
+
+}
+.div-clear{
+    clear: both;
+}
+.hr1{
+    border: 4px solid black;
+    width: 98%;
+    margin: 20px auto;
+    border-bottom: none;
+    border-right: none;
+}
+#personal-section{
+
+}
+.content{
+    margin-bottom: 30px;
+    padding: 10px;
+    
+}
+.left-div{
+   width: 30%;
+   float: left;
+   margin-top: 5px;
+   margin-bottom: 5px;
+   margin-left: 10px;
+   
+}
+.right-div{
+    width: 65%;
+    float: left;
+    color: cyan;
+    margin-bottom:20px;
+    margin-left: 10px;
+        
+}
+.right-div p:hover{
+            text-decoration: underline;
+            background-color: rgb(189, 10, 10);
+            
+}
+.common-hr{
+    border: 1.5px solid black;
+    border-bottom: none;
+    width: 98%;
+    margin: auto;
+    
+}
+.edu-shuvo{
+    float: left;
+    width: 45%;
+}
+.edu-rajib{
+    float: right;
+    width: 45%;
+
+}
+.sa11{
+    background-color: black;
+}
